@@ -55,7 +55,7 @@ int main(int argc,char *argv[])
      break;
   send(sockfd,sendbuffer,sizeof(sendbuffer),0);
   recv(sockfd,recvbuffer,200,0);
-  printf("recv data of my world is :%s\n",recvbuffer);
+  printf("Client recv data of my world is :%s\n",recvbuffer);
     }
     close(sockfd);
     exit(0);
