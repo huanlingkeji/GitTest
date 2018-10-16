@@ -1,1 +1,0 @@
-set pastetoggle=<F9>
