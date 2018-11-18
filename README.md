@@ -1,3 +1,1 @@
-#This is a GitTest project.
-#it inlucdes IO_Select netModel .
-#            Epoll netModel	.
+这是在阿里云服务器编写代码顺便练习Git创建的一个小仓库，用于保存服务器上创建的文件，包括了基础的c项目代码，shell脚本，基础的网络模型代码。
